@@ -164,6 +164,43 @@ The design ensures that developers can not only query and retrieve knowledge eff
 
 ---
 
+## 📊 System Visualizations
+
+Below are key monitoring dashboards demonstrating real-time observability of the **Autonomous RAG Monitoring System** using **Kibana** and **Prometheus**.
+
+---
+
+### 🟢 Prometheus Metrics Overview
+> **Figure 1.** Prometheus dashboard tracking API latency, ingestion throughput, and system resource utilization.
+
+<p align="center">
+  <img src="docs/images/Prometheus.png" width="80%" alt="Prometheus Metrics Dashboard">
+</p>
+
+---
+
+### 🟣 Kibana Dashboards
+
+> **Figure 2.** Query performance trends visualized in Kibana.  
+> **Figure 3.** Retrieval latency and response-time correlation.  
+> **Figure 4.** Log distribution across ingestion and query services.
+
+<p align="center">
+  <img src="docs/images/Kibana_Visual_1.png" width="80%" alt="Kibana Dashboard 1">
+  <br><br>
+  <img src="docs/images/Kibana_Visual_2.png" width="80%" alt="Kibana Dashboard 2">
+  <br><br>
+  <img src="docs/images/Kibana_Visual_3.png" width="80%" alt="Kibana Dashboard 3">
+</p>
+
+---
+
+These visualizations collectively illustrate the system’s ability to:
+- Monitor ingestion rates and query response times in real time  
+- Correlate retrieval performance with operational metrics  
+- Provide full-stack transparency into RAG workflow health
+
+
 ## Core Components and Responsibilities
 
 | Component | Description |
