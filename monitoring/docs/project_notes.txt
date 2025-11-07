@@ -1,0 +1,4 @@
+Set up Elasticsearch, Kibana, Prometheus, and Grafana using Docker.
+The RAG ingestion pipeline works correctly and logs metrics for ingestion time and count.
+Prometheus scrapes metrics from Python, and Grafana visualizes document processing trends.
+Next milestone: integrate adaptive recommendations based on learner engagement.

@@ -1,0 +1,5402 @@
+[
+  {
+    "@timestamp": "2025-11-04T05:06:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 23.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:06:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 7.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:06:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 77.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:06:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 61.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:06:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 79.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:07:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 74.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:07:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 37.83,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:07:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 72.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:07:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 4.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:07:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 84.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:08:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 78.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:08:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 67.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:08:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 75.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:08:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 70.52,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:08:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 61.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:09:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 61.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:09:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 79.05,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:09:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 74.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:09:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 67.68,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:09:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 78.64,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:10:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 95.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:10:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 31.39,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:10:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 7.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:10:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 2.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:10:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 36.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:11:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 58.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:11:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 24.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:11:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 35.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:11:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 9.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:11:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 43.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:12:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 85.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:12:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 29.78,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:12:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 70.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:12:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 81.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:12:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 78.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:13:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 93.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:13:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 15.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:13:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 63.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:13:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 22.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:13:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 43.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:14:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 43.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:14:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 61.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:14:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 48.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:14:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 82.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:14:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 15.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:15:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 17.56,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:15:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 43.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:15:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 43.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:15:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 59.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:15:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 23.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:16:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 63.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:16:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 82.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:16:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 4.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:16:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 88.51,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:16:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 41.37,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:17:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 88.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:17:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 11.81,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:17:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 44.14,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:17:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 80.09,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:17:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 93.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:18:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 60.88,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:18:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 44.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:18:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 67.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:18:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 62.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:18:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 11.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:19:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 44.0,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:19:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 12.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:19:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 19.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:19:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 56.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:19:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 82.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:20:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 65.81,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:20:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 41.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:20:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 43.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:20:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 70.25,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:20:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 73.0,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:21:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 16.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:21:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 52.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:21:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 65.36,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:21:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 52.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:21:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 13.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:22:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 50.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:22:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 32.24,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:22:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 89.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:22:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 53.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:22:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 67.13,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:23:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 60.44,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:23:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 37.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:23:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 95.98,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:23:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 89.37,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:23:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 94.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:24:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 39.56,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:24:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 80.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:24:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 43.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:24:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 18.89,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:24:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 38.76,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:25:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 2.39,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:25:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 63.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:25:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 64.26,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:25:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 57.89,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:25:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 93.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:26:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 2.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:26:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 30.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:26:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 89.37,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:26:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 39.54,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:26:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 64.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:27:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 48.62,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:27:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 27.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:27:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 11.66,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:27:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 23.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:27:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 33.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:28:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 61.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:28:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 10.24,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:28:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 66.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:28:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 71.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:28:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 40.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:29:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 61.6,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:29:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 13.0,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:29:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 7.62,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:29:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 15.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:29:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 53.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:30:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 48.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:30:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 44.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:30:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 44.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:30:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 53.44,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:30:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 67.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:31:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 44.91,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:31:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 12.79,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:31:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 22.85,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:31:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 25.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:31:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 65.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:32:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 90.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:32:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 19.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:32:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 34.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:32:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 84.09,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:32:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 76.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:33:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 1.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:33:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 93.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:33:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 29.52,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:33:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 23.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:33:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 59.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:34:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 63.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:34:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 86.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:34:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 83.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:34:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 95.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:34:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 5.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:35:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 54.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:35:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 22.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:35:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 77.64,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:35:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 79.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:35:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 52.03,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:36:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 40.91,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:36:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 55.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:36:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 65.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:36:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 22.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:36:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 43.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:37:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 39.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:37:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 36.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:37:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 9.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:37:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 54.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:37:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 80.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:38:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 36.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:38:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 98.81,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:38:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 25.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:38:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 48.56,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:38:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 55.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:39:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 70.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:39:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 68.26,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:39:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 10.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:39:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 57.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:39:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 78.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:40:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 35.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:40:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 2.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:40:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 5.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:40:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 92.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:40:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 21.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:41:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 33.62,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:41:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 6.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:41:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 26.24,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:41:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 71.13,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:41:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 46.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:42:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 56.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:42:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 60.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:42:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 26.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:42:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 98.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:42:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 28.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:43:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 75.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:43:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 7.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:43:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 82.01,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:43:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 9.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:43:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 93.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:44:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 45.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:44:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 97.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:44:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 77.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:44:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 7.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:44:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 35.81,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:45:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 54.6,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:45:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 13.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:45:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 49.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:45:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 9.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:45:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 78.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:46:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 22.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:46:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 19.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:46:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 72.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:46:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 22.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:46:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 72.0,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:47:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 20.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:47:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 79.97,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:47:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 86.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:47:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 55.69,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:47:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 83.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:48:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 90.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:48:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 68.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:48:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 61.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:48:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 70.05,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:48:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 68.05,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:49:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 53.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:49:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 71.76,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:49:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 46.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:49:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 8.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:49:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 39.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:50:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 50.6,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:50:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 24.97,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:50:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 87.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:50:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 96.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:50:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 85.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:51:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 8.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:51:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 76.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:51:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 24.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:51:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 54.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:51:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 89.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:52:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 40.91,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:52:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 26.64,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:52:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 9.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:52:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 8.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:52:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 51.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:53:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 69.39,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:53:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 22.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:53:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 70.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:53:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 12.85,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:53:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 27.19,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:54:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 10.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:54:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 79.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:54:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 49.88,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:54:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 73.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:54:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 14.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:55:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 17.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:55:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 3.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:55:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 99.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:55:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 51.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:55:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 12.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:56:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 70.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:56:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 46.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:56:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 8.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:56:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 3.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:56:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 54.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:57:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 15.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:57:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 27.88,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:57:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 3.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:57:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 57.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:57:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 22.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:58:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 99.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:58:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 21.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:58:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 17.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:58:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 9.69,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:58:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 1.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:59:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 59.67,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:59:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 14.13,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:59:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 48.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:59:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 56.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T05:59:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 68.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:00:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 51.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:00:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 29.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:00:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 67.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:00:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 46.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:00:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 43.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:01:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 99.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:01:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 57.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:01:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 2.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:01:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 32.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:01:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 52.44,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:02:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 45.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:02:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 28.03,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:02:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 60.67,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:02:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 57.44,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:02:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 13.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:03:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 71.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:03:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 99.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:03:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 34.67,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:03:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 48.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:03:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 33.79,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:04:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 96.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:04:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 69.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:04:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 54.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:04:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 75.68,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:04:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 22.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:05:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 84.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:05:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 62.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:05:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 74.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:05:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 32.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:05:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 78.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:06:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 65.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:06:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 54.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:06:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 52.44,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:06:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 7.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:06:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 33.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:07:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 2.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:07:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 18.67,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:07:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 68.66,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:07:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 3.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:07:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 30.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:08:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 87.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:08:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 18.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:08:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 93.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:08:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 27.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:08:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 24.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:09:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 85.66,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:09:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 64.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:09:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 38.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:09:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 8.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:09:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 45.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:10:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 67.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:10:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 91.62,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:10:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 80.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:10:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 8.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:10:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 59.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:11:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 16.81,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:11:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 80.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:11:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 2.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:11:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 50.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:11:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 98.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:12:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 69.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:12:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 23.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:12:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 86.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:12:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 39.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:12:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 42.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:13:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 16.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:13:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 88.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:13:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 97.76,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:13:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 42.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:13:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 83.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:14:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 92.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:14:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 73.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:14:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 25.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:14:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 71.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:14:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 85.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:15:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 29.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:15:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 23.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:15:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 65.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:15:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 76.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:15:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 9.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:16:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 11.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:16:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 65.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:16:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 28.09,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:16:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 50.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:16:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 11.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:17:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 55.03,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:17:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 2.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:17:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 83.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:17:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 80.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:17:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 7.39,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:18:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 62.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:18:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 66.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:18:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 99.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:18:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 93.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:18:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 67.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:19:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 64.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:19:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 12.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:19:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 92.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:19:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 20.26,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:19:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 2.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:20:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 42.19,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:20:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 54.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:20:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 65.68,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:20:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 31.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:20:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 86.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:21:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 44.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:21:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 3.02,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:21:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 75.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:21:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 87.83,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:21:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 90.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:22:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 34.98,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:22:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 96.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:22:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 0.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:22:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 87.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:22:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 43.54,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:23:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 85.39,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:23:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 72.09,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:23:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 16.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:23:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 39.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:23:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 98.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:24:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 47.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:24:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 99.51,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:24:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 10.98,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:24:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 24.79,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:24:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 96.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:25:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 3.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:25:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 37.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:25:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 84.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:25:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 82.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:25:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 89.91,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:26:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 39.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:26:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 74.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:26:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 58.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:26:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 85.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:26:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 5.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:27:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 92.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:27:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 17.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:27:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 83.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:27:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 21.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:27:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 29.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:28:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 3.79,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:28:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 45.74,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:28:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 48.88,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:28:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 42.24,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:28:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 35.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:29:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 46.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:29:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 17.03,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:29:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 0.49,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:29:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 7.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:29:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 73.72,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:30:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 31.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:30:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 77.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:30:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 88.93,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:30:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 98.78,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:30:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 96.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:31:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 12.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:31:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 19.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:31:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 98.98,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:31:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 82.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:31:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 69.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:32:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 42.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:32:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 49.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:32:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 40.88,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:32:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 64.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:32:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 90.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:33:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 42.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:33:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 78.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:33:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 9.89,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:33:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 70.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:33:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 16.2,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:34:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 54.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:34:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 81.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:34:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 50.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:34:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 71.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:34:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 87.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:35:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 53.7,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:35:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 93.52,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:35:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 32.74,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:35:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 64.83,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:35:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 85.76,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:36:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 89.14,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:36:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 95.13,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:36:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 64.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:36:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 3.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:36:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 36.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:37:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 14.65,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:37:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 34.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:37:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 79.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:37:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 34.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:37:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 32.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:38:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 52.93,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:38:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 33.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:38:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 95.25,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:38:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 95.63,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:38:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 44.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:39:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 98.68,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:39:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 57.23,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:39:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 57.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:39:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 96.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:39:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 27.38,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:40:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 56.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:40:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 71.01,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:40:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 45.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:40:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 43.93,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:40:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 93.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:41:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 5.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:41:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 65.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:41:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 32.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:41:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 42.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:41:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 8.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:42:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 77.12,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:42:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 67.04,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:42:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 36.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:42:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 86.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:42:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 91.91,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:43:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 82.87,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:43:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 43.85,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:43:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 80.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:43:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 96.82,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:43:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 3.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:44:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 44.07,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:44:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 33.37,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:44:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 53.32,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:44:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 7.31,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:44:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 82.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:45:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 51.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:45:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 91.14,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:45:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 84.06,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:45:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 69.68,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:45:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 61.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:46:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 1.0,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:46:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 60.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:46:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 46.98,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:46:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 35.79,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:46:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 24.97,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:47:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 18.47,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:47:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 5.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:47:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 34.57,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:47:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 41.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:47:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 47.58,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:48:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 46.83,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:48:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 15.16,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:48:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 88.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:48:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 67.26,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:48:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 21.25,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:49:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 60.84,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:49:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 13.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:49:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 51.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:49:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 70.85,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:49:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 80.3,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:50:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 12.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:50:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 39.8,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:50:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 55.14,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:50:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 71.85,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:50:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 58.01,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:51:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 2.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:51:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 16.34,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:51:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 72.15,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:51:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 9.4,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:51:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 61.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:52:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 36.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:52:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 13.97,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:52:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 9.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:52:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 61.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:52:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 8.21,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:53:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 58.09,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:53:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 66.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:53:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 55.17,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:53:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 67.13,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:53:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 87.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:54:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 98.33,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:54:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 94.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:54:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 69.94,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:54:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 14.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:54:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 85.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:55:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 49.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:55:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 69.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:55:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 53.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:55:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 2.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:55:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 67.05,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:56:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 58.92,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:56:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 68.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:56:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 25.62,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:56:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 28.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:56:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 80.01,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:57:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 65.27,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:57:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 70.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:57:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 31.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:57:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 95.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:57:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 99.86,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:58:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 20.01,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:58:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 72.69,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:58:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 63.43,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:58:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 58.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:58:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 27.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:59:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 12.18,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:59:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 51.19,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:59:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 25.59,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:59:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 8.5,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T06:59:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 10.54,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:00:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 78.45,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:00:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 9.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:00:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 11.75,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:00:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 19.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:00:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 41.22,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:01:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 31.51,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:01:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 49.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:01:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 13.46,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:01:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 31.35,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:01:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 51.24,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:02:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 98.42,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:02:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 38.29,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:02:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 93.73,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:02:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 31.08,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:02:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 94.95,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:03:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 98.71,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:03:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 20.97,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:03:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 91.9,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:03:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 94.11,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:03:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 35.48,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:04:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 16.28,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:04:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 99.55,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:04:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 54.67,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:04:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 46.54,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:04:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 66.96,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:05:47.640237Z",
+    "metric": "rag_ingested_docs_total",
+    "value": 45.77,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:05:47.640237Z",
+    "metric": "rag_index_size",
+    "value": 16.61,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:05:47.640237Z",
+    "metric": "rag_queries_total",
+    "value": 4.1,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:05:47.640237Z",
+    "metric": "rag_retrieval_time_seconds",
+    "value": 54.53,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  },
+  {
+    "@timestamp": "2025-11-04T07:05:47.640237Z",
+    "metric": "rag_generation_time_seconds",
+    "value": 82.41,
+    "labels": {
+      "job": "rag_system",
+      "instance": "host.docker.internal:8000"
+    }
+  }
+]

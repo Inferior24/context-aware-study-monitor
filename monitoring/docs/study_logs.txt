@@ -1,0 +1,5 @@
+[2025-10-30 09:00] Studied Data Structures for two hours, practiced recursion.
+[2025-10-30 11:30] Watched a video on Dynamic Programming and understood memoization.
+[2025-10-31 14:00] Revised Graph Algorithms; confusion remains in BFS vs DFS traversal.
+[2025-10-31 17:00] Took a mock test and scored 62%; need to improve time management.
+[2025-11-01 10:00] Reviewed sorting algorithms; quicksort accuracy improved.

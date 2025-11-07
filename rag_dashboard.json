@@ -1,0 +1,52 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "RAG Ingestion Observability Dashboard",
+    "tags": ["RAG", "Prometheus", "Monitoring"],
+    "timezone": "browser",
+    "schemaVersion": 39,
+    "version": 1,
+    "panels": [
+      {
+        "type": "stat",
+        "title": "Total Ingest Requests",
+        "targets": [{ "expr": "sum(ingest_requests_total)" }],
+        "gridPos": { "x": 0, "y": 0, "w": 8, "h": 4 }
+      },
+      {
+        "type": "stat",
+        "title": "Total Ingest Errors",
+        "targets": [{ "expr": "sum(ingest_errors_total)" }],
+        "gridPos": { "x": 8, "y": 0, "w": 8, "h": 4 },
+        "fieldConfig": {
+          "defaults": {
+            "color": { "mode": "thresholds" },
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                { "color": "green", "value": null },
+                { "color": "orange", "value": 1 },
+                { "color": "red", "value": 5 }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "type": "graph",
+        "title": "Ingestion Duration Over Time",
+        "targets": [
+          { "expr": "rate(ingest_duration_seconds_sum[1m]) / rate(ingest_duration_seconds_count[1m])" }
+        ],
+        "gridPos": { "x": 0, "y": 4, "w": 16, "h": 8 }
+      },
+      {
+        "type": "graph",
+        "title": "Ingestion Rate (per second)",
+        "targets": [{ "expr": "rate(ingest_requests_total[1m])" }],
+        "gridPos": { "x": 0, "y": 12, "w": 16, "h": 8 }
+      }
+    ]
+  },
+  "overwrite": true
+}

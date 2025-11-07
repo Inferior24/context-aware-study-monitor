@@ -1,0 +1,4 @@
+Artificial Intelligence enables systems to perform tasks requiring human-like intelligence. 
+Machine learning, a core subset of AI, focuses on algorithms that learn patterns from data. 
+Deep learning uses neural networks to extract layered features from large datasets. 
+Reinforcement learning trains agents through rewards and penalties for better decision making.

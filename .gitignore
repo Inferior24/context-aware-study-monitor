@@ -1,0 +1,54 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv / env
+venv/
+.env
+.env.* 
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# Data and large files
+/docs/data/
+images/   # if images are large; consider tracking a smaller screenshot set or using LFS
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Elasticsearch temp
+elasticsearch-data/
+
+# Git LFS managed files placeholder
+*.psd
+*.png
+*.jpg
+
+# Node / build artifacts (if present)
+node_modules/
+
+# Misc
+.secrets/

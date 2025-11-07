@@ -1,0 +1,114 @@
+[
+  {
+    "file": "Golang_Basics.txt",
+    "text": "================================================================================ GOLANG BASICS GUIDE ================================================================================ OVERVIEW: Go (also called Golang) is a compiled, statically-typed programming language created by Google. It combines ..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "needs: fast compilation, concurrent programming support, simple syntax, and excellent tooling. Rob Pike, Robert Griesemer, and Ken Thompson started discussing a new language. They drew inspiration from various languages but made radical simplification choices. They removed generics (initially), inhe..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "MODULES: Definition: Code organization and dependency management. Packages: - Basic unit of organization - Similar to namespaces/modules - All files in directory same package - Exported names capitalized (Public) - Unexported names lowercase (Private) Module System (Go 1.11+): - Version-based depend..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "creates new slice - Overlapping references share memory - append() adds elements 9. STRUCT EMBEDDING: Definition: Composition mechanism for code reuse. Embedding: - Including types within types - Promotes embedded methods/fields - Alternative to inheritance - Composition over inheritance Example: ty..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "Primitives: bool, string, int, float, etc. - Composite: arrays, slices, maps, structs - Pointer types - Function types - Interface types - Channel types 3. Object-Oriented Programming (Go Way): - Methods and receivers - Interfaces and implicit implementation - Embedding and composition - Polymorphis..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "- Protobuf: Serialization format - go-micro: Microservices framework - Kitex: Framework by ByteDance Utilities & Tools: - Cobra: CLI framework - logrus: Logging library - Viper: Configuration management - context: Context passing - sync: Synchronization primitives Deployment: - Docker: Containerizat..."
+  },
+  {
+    "file": "Golang_Basics.txt",
+    "text": "the broader cloud ecosystem validated its approach. Today, Go is the language of choice for infrastructure, microservices, and systems software. For programmers entering the field, Go offers an excellent balance of learning curve and practical utility. Starting with basics like goroutines and interf..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "================================================================================ LINUX BASICS GUIDE ================================================================================ OVERVIEW: Linux is a free, open-source operating system kernel created by Linus Torvalds that manages hardware resource..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "the market. Linus Torvalds wanted to learn operating system design using Minix, a small Unix clone. He built a terminal emulator, then a file system, eventually creating a complete kernel. The combination of GPL licensing (ensuring freedom) and open-source development model enabled global collaborat..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "ID (PID): Unique identifier - Parent Process ID (PPID): Process that created it - Priority: CPU scheduling priority - Memory: Allocated to process - Status: Running, waiting, stopped, zombie Process States: - Running: Currently executing or waiting to execute - Waiting: Sleeping, waiting for event -..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "Google Cloud, Azure) - Virtual private servers (VPS) - Container orchestration (Kubernetes) - Database servers Importance: Linux dominates enterprise and cloud markets 2. WEB HOSTING & DEVELOPMENT: - Web server hosting - Development environments - Version control systems (Git) - Continuous integrati..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "packages - Understanding package repositories - Building from source (./configure, make, make install) 7. Networking: - IP addressing and CIDR notation - Network interfaces configuration - DNS resolution - Network utilities (ping, traceroute, netcat) - SSH and SCP file transfer - Port concepts and s..."
+  },
+  {
+    "file": "Linux_Basics.txt",
+    "text": "Commercial support - CentOS: Community-driven RHEL - Fedora: Cutting-edge features - AlmaLinux: RHEL alternative Others: - Arch Linux: Minimalist, customizable - Gentoo: Source-based compilation - Slackware: Classic, simple - Alpine Linux: Minimal, container-focused =================================..."
+  },
+  {
+    "file": "ML_Basics.txt",
+    "text": "================================================================================ MACHINE LEARNING BASICS ================================================================================ OVERVIEW: Machine Learning (ML) is a subset of artificial intelligence that enables systems to learn and improve f..."
+  },
+  {
+    "file": "ML_Basics.txt",
+    "text": "customer churn prediction 2. UNSUPERVISED LEARNING: Definition: Learning patterns from unlabeled data without predefined outputs. Clustering: Grouping similar data points - K-Means: Partitioning data into k clusters - Hierarchical Clustering: Creating tree of clusters - DBSCAN: Density-based cluster..."
+  },
+  {
+    "file": "ML_Basics.txt",
+    "text": "questions - Named Entity Recognition: Identifying names and locations Examples: Chatbots, search engines, content recommendation, spam detection 3. RECOMMENDATION SYSTEMS: - Collaborative Filtering: Based on user behavior similarity - Content-Based Filtering: Based on item features - Hybrid Systems:..."
+  },
+  {
+    "file": "ML_Basics.txt",
+    "text": "Federated Learning: Distributed ML training - AutoML: Automated machine learning pipelines ================================================================================ GETTING STARTED: ================================================================================ RECOMMENDED LEARNING PATH: 1. ..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "NATURAL LANGUAGE PROCESSING BASICS OVERVIEW: Natural Language Processing (NLP) is a subdiscipline of artificial intelligence and machine learning that focuses on enabling computers to understand, interpret, generate, and manipulate human language in meaningful and contextually appropriate ways. NLP ..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "IMPORTANT CONCEPTS & FUNDAMENTALS: 1. TEXT PREPROCESSING: Definition: Cleaning and preparing raw text for analysis. Tokenization: Breaking text into words/sentences - Word Tokenization: \"Hello world\" \u2192 [\"Hello\", \"world\"] - Sentence Tokenization: Splitting into sentences - Subword Tokenization: Break..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "Positional Encoding: Adding position information - Multi-Head Self-Attention: Learning token relationships - Feed-Forward Networks: Position-wise dense layers - Layer Normalization: Stabilizing training - Decoder with cross-attention: For sequence generation Advantages: - Parallel processing (unlike..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "tools, transcription services 8. RECOMMENDATION SYSTEMS: - Using NLP to understand user preferences - Semantic similarity for content matching Applications: Music recommendations, book suggestions, content discovery 9. CONTENT MODERATION: - Toxic comment detection - Hate speech identification - NSFW..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "- Docker: Containerization for deployment NLP WORKFLOW: Typical NLP Project Steps: 1. Problem Definition - Identify task type and objectives - Define success metrics 2. Data Collection & Exploration - Gather relevant text data - Analyze data characteristics - Identify potential issues 3. Data Prepro..."
+  },
+  {
+    "file": "NLP_Basics.txt",
+    "text": "transformative technology. ================================================================================"
+  },
+  {
+    "file": "ai_notes.txt",
+    "text": "Artificial Intelligence enables systems to perform tasks requiring human-like intelligence. Machine learning, a core subset of AI, focuses on algorithms that learn patterns from data. Deep learning uses neural networks to extract layered features from large datasets. Reinforcement learning trains ag..."
+  },
+  {
+    "file": "learning_patterns.txt",
+    "text": "I retain knowledge better when solving problems immediately after reading theory. Morning sessions are best for logical reasoning. Night sessions improve creativity but reduce accuracy. Spaced repetition boosts long-term recall and confidence."
+  },
+  {
+    "file": "project_notes.txt",
+    "text": "Set up Elasticsearch, Kibana, Prometheus, and Grafana using Docker. The RAG ingestion pipeline works correctly and logs metrics for ingestion time and count. Prometheus scrapes metrics from Python, and Grafana visualizes document processing trends. Next milestone: integrate adaptive recommendations ..."
+  },
+  {
+    "file": "range_rover_velar_spec.txt",
+    "text": "The Range Rover Velar combines performance and luxury with adaptive dynamics and all-wheel drive. Its interior features a minimalist design with advanced infotainment and climate control systems. Powered by efficient hybrid engines, it balances power with sustainability."
+  },
+  {
+    "file": "study_logs.txt",
+    "text": "[2025-10-30 09:00] Studied Data Structures for two hours, practiced recursion. [2025-10-30 11:30] Watched a video on Dynamic Programming and understood memoization. [2025-10-31 14:00] Revised Graph Algorithms; confusion remains in BFS vs DFS traversal. [2025-10-31 17:00] Took a mock test and scored ..."
+  }
+]
